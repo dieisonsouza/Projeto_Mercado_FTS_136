@@ -1,0 +1,22 @@
+{
+    "id": 109080,
+    "category": {
+      "id": 1234,
+      "name": "bear"
+    },
+    "name": "dolly",
+    "photoUrls": [
+      ""
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "furious"
+      },
+      {
+        "id": 2,
+        "name": "brave"
+      }
+    ],
+    "status": "solded"
+  }
